@@ -26,7 +26,7 @@ Connect 4 is a two-player connection game in which the players first choose a co
 
 ## Images
 
-[1](https://github.com/Ali-Ch-001/Connect-4-Game/assets/108975862/888fbf59-5598-4703-a558-5b6bbfd9ba53)
+![1](https://github.com/Ali-Ch-001/Connect-4-Game/assets/108975862/22765a45-2814-4b69-93a7-c704635c8e45)
 
 
 ## Requirements
