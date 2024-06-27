@@ -43,11 +43,11 @@ Connect 4 is a two-player connection game in which the players first choose a co
 
 2. Compile the game:
     ```bash
-    g++ -o connect4 connect4.cpp
+    g++ -o Connect-4-Game Connect-4-Game.cpp
     ```
 
 ## Usage
 
 Run the game using the compiled binary:
 ```bash
-./connect4
+./Connect-4-Game
